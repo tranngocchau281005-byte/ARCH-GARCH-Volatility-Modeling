@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project was completed as part of the **Quantitative Finance** course. It applies **ARCH** and **GARCH** models to analyze the volatility of **Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV, ticker: BID)** daily stock returns by estimating **ARCH(1)** and **GARCH(1,1)** models.
-
+This project was completed as part of the **Quantitative Finance** course. It analyzes the volatility of **Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV, ticker: BID)** daily stock returns using **ARCH** and **GARCH** models.
 ## Methodology
 
 - Daily Return Calculation
