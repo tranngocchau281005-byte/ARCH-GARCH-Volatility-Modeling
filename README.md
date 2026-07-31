@@ -21,4 +21,4 @@ This project was completed as part of the **Quantitative Finance** course. It ap
 - ARCH
 
 ## Report
-https://tranngocchau281005-byte.github.io/ARCH-and-GARCH-Volatility-Modeling/
+[View HTML Report] https://tranngocchau281005-byte.github.io/ARCH-and-GARCH-Volatility-Modeling/
