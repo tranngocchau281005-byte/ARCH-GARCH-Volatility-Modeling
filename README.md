@@ -1,4 +1,4 @@
-# ARCH-and-GARCH-Volatility-Modeling
+# ARCH and GARCH Volatility Modeling
 
 ## Overview
 
