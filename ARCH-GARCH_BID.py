@@ -5,7 +5,7 @@ import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
 # Bước 2: Xử lý dữ liệu đầu vào
-t1 = 'C:/Users/Chau/OneDrive - THPT Nguyễn Công Trứ/Attachments/TC định lượng/4_Trần Ngọc Châu_BID.csv'
+t1 = 'path to your dataset.csv'
 BID = pd.read_csv(t1,sep=";")
 print(BID)
 print(BID.info())
